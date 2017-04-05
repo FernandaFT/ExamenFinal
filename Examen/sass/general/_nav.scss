@@ -1,0 +1,33 @@
+.navHeader {
+	display: inline-flex;
+	list-style: none;
+	margin: 0 auto;
+	position: relative;
+    left: 384px;
+    bottom: 861px;
+    text-transform: uppercase;
+}
+.navHeader>li {
+	padding: 30px;
+}
+li>a {
+	text-decoration: none;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+.link2 {
+    display: inline-flex;
+    list-style: none;
+    text-transform: uppercase;
+    position: relative;
+    bottom: 771px;
+    right: 70px;
+}
+.link2>li>a {
+	color: #000;
+}
+button {
+	border: 1px solid #fff;
+	cursor: pointer;
+	padding: 7px 25px 7px 25px;
+}
